@@ -10,7 +10,7 @@ A 4th-year Computer Engineering student at Prince of Songkla University, passion
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pakon yaothong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pakon yaothong" height="30" width="40" /></a>
-<a href="https://fb.com/ปกรณ์ ยาวทอง" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ปกรณ์ ยาวทอง" height="30" width="40" /></a>
+<a href="https://www.facebook.com/blackeater.solokill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ปกรณ์ ยาวทอง" height="30" width="40" /></a>
 <a href="https://instagram.com/bibi_kxrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibi_kxrn" height="30" width="40" /></a>
 </p>
 
