@@ -21,5 +21,6 @@ A 4th-year Computer Engineering student at Prince of Songkla University, passion
 <p>
   <a href="https://github.com/Pakorn-Yaothong">
     <img src="https://github-readme-stats.vercel.app/api?username=Pakorn-Yaothong&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakorn-Yaothong&layout=compact&theme=dark&hide_border=true" width="420"/>
   </a>
 </p>
