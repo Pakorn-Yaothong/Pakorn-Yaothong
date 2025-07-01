@@ -5,9 +5,10 @@ A 4th-year Computer Engineering student at Prince of Songkla University, passion
 
 - 📦 My previous project: [Supplies Inventory Management System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)
 
-- 🌐 Explore all my projects at [https://github.com/Pakorn-Yaothong]([https://github.com/Pakorn-Yaothong](https://github.com/Pakorn-Yaothong?tab=repositories))
+- 🌐 Explore all my projects at [Pakorn-Yaothong Repositories](https://github.com/Pakorn-Yaothong?tab=repositories)
 
 - 📫 Contact me via email: **kb.h0liday44@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
