@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Pakorn Yaothong</h1>
-A 4th-year Computer Engineering student at Prince of Songkla University, passionate about full-stack web development, software development, and embedded systems.
+A 4th-year Computer Engineering student at Prince of Songkla University, passionate about  web development, software development, IOT and embedded systems.
 
 - 🔭 I’m currently working on [Supplies-Inventory-Management-System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)
 
