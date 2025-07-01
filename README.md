@@ -1,11 +1,13 @@
 <h1>Hi 👋, I'm Pakorn Yaothong</h1>
 A 4th-year Computer Engineering student at Prince of Songkla University, passionate about  web development, software development, IOT and embedded systems.
 
-- 🔭 I’m currently working on [Supplies-Inventory-Management-System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)
+- 🚀 I’m currently working on [QuickDesk](https://github.com/Pakorn-Yaothong/QuickDesk)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pakorn-Yaothong](https://github.com/Pakorn-Yaothong)
+- 📦 My previous project: [Supplies Inventory Management System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)
 
-- 📫 How to reach me **kb.h0liday44@gmail.com**
+- 🌐 Explore all my projects at [https://github.com/Pakorn-Yaothong](https://github.com/Pakorn-Yaothong](https://github.com/Pakorn-Yaothong?tab=repositories))
+
+- 📫 Contact me via email: **kb.h0liday44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
